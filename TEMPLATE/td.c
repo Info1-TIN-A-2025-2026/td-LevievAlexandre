@@ -2,6 +2,6 @@
 
 int main(int argc, const char *argv[])
 {
-	puts("Podemos trabalhar...!");
+	puts("My teacher is a frenchman !");
 	return 0;
 }
