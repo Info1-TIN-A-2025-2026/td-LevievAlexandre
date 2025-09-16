@@ -2,6 +2,10 @@
 
 int main(int argc, const char *argv[])
 {
-	puts("My teacher is a frenchman !");
-	return 0;
+
+	unsigned int num_students = 23;
+	signed int account_value = -42; //signed optionel
+	float temperature = 18.1;
+	double pi =3.141592653589793
+	
 }
